@@ -14,5 +14,5 @@
 
 #### Formation:
 
-None! I dropped Computer Science at Federal University of Pará (UFPA) at the middle of April 2021 to join the biggest tech company of the state. I've completed six of eight periods on college.
+None! I dropped out Computer Science at Federal University of Pará (UFPA) in the middle of April 2021 to join the biggest tech company of the state. I've completed six of eight periods on college.
 
