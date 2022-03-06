@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey, what's up? 👋
 
-<!--
-**edson-rodrigues/edson-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me:
+- Name: Edson de Jesus Rodrigues Gonçalves
+- Age: 27
+- Location: Belém, PA, BR
+- Pronouns: He/Him
 
-Here are some ideas to get you started:
+#### Skills:
++ Asp.net Core, Asp.Net MVC 5, Asp.net Web Forms
++ Oracle SQL
++ SQL Server
++ React (with Typescript and Next.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Formation:
+
+None! I droped Computer Science at Federal University of Pará (UFPA) at the middle of April 2021 to start a career as Developer on the biggest tech company of the state. I've completed six of eight periods on college.
+
