@@ -2,9 +2,9 @@
 
 #### About me:
 - Name: Edson de Jesus Rodrigues Gonçalves
-- Age: 27
+- Age: 2
 - Location: Belém, PA, BR
-- Pronouns: He/Him
+- Pronouns: He/Him/His
 
 #### Skills:
 + Asp.net Core, Asp.Net MVC 5, Asp.net Web Forms, Ruby on Rails, Django
@@ -14,5 +14,5 @@
 
 #### Formation:
 
-None! I dropped out Computer Science at Federal University of Pará (UFPA) in the middle of April 2021 to join the biggest tech company of the state. I've completed six of eight periods on college.
+None! I dropped out Computer Science at Federal University of Pará (UFPA) in the middle of April 2021 to join the biggest tech company of the state. I've completed six of eight periods on college. Currently I'm studying to get microsoft certifications
 
