@@ -11,6 +11,7 @@
 + Oracle SQL
 + SQL Server
 + React (with Typescript and Next.js)
++ Azure Devops
 
 #### Formation:
 
