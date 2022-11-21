@@ -7,7 +7,7 @@
 - Pronouns: He/Him/His
 
 #### Skills:
-+ Asp.net Core, Asp.Net MVC 5, Asp.net Web Forms, Ruby on Rails, Django
++ Asp.net Core, Asp.Net MVC 5, Asp.net Web Forms
 + Oracle SQL
 + SQL Server
 + React (with Typescript and Next.js)
