@@ -8,16 +8,20 @@
 
 #### Skills:
 + C#, .NET, .NET Framework, Asp.Net MVC 5, Asp.net WEB APIS, Asp.net Web Forms
++ Flutter
 + Oracle SQL
 + SQL Server
-+ React (with Typescript and Next.js)
++ React
++ Angular
 + Azure Devops
 + Docker
 + Kubernetes
 + Microsservices
 
 #### Formation:
-
+Development and Analysis of Systems - Anhaguera - 2023
 Computer Science - UFPA - 2017
-Developmetn and Analysis of Systems - Anhaguera - 2023
+Computer Engineering - UFPA - 2013
+
+
 
