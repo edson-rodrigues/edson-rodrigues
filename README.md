@@ -7,8 +7,7 @@
 - Pronouns: He/Him/His
 
 #### Skills:
-+ C#, .NET, .NET Framework, Asp.Net MVC 5, Asp.net WEB APIS, Asp.net Web Forms
-+ Flutter
++ C#, .NET, .NET Framework, Asp.Net MVC, Asp.net WEB APIS, Asp.net Web Forms
 + Oracle SQL
 + SQL Server
 + React
@@ -16,12 +15,12 @@
 + Azure Devops
 + Docker
 + Kubernetes
++ Kafka/Rabbit MQ/Google Pub Sub
++ Azure, AWS, GCP
 + Microsservices
 
 #### Formation:
-Development and Analysis of Systems - Anhaguera - 2023
-Computer Science - UFPA - 2017
-Computer Engineering - UFPA - 2013
+Development and Analysis of Systems - Universidade Cruzeiro do Sul
 
 
 
